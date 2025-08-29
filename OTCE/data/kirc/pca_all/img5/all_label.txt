@@ -1,0 +1,10 @@
+1.jpeg	478
+2.jpeg	1417
+3.jpeg	1121
+4.jpeg	-3392
+5.jpeg	-2722
+6.jpeg	-3834
+7.jpeg	-507
+8.jpeg	-38
+9.jpeg	-141
+10.jpeg	-194
